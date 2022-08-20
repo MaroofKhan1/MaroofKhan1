@@ -7,7 +7,7 @@ Full-Stack Developer
 I'm a Full-Stack Developer passionate about American stock exchanges and blockchain technology. I have extensive knowledge of computer hardware and computer software. I have led groups of young adults in developing their soft and technical skills. As a problem solver with a keen eye for detail, I excel in a cooperative environment and am able to make good decisions in difficult situations.
 
 *   🌍  I'm based in Minnesota
-*   ✉️  You can contact me at [khan.maroof6569@gmail.com](mailto:khan.maroof6569@gmail.com)
+*   ✉️  You can contact me at [maroof.mkf@gmail.com](mailto:maroof.mkf@gmail.com)
 *   🧠  I'm learning Python### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
